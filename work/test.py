@@ -1,3 +1,3 @@
 print("hello")
 print("hello world")
-i am from delhi
+print("i am from delhi")
